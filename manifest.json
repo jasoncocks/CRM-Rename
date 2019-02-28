@@ -1,0 +1,12 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "CRMRename.js" ]
+   },
+   "description": "Rename CRM attachments",
+   "manifest_version": 2,
+   "name": "CRM Rename",
+   "permissions": [ "downloads" ],
+   "short_name": "CRM Rename",
+   "version": "1.0.1"
+}
